@@ -1,0 +1,41 @@
+Instructions
+---***---
+(1) Install C++ Compiler (if not already installed):
+
+- Make sure you have a C++ development environment installed on
+your computer before executing this application. Examples of
+such environments include g++ for Linux and Visual Studio for
+Windows. If not, install the appropriate C++ compiler by downloading it.
+
+(2) Copy the Source Code:
+
+The program's whole C++ source code should be copied into a new text
+document on your PC. Save the file as NguyenTon-HW4.cpp,
+for instance, then rename it with the.cpp extension.
+
+(3) Compile the Source Code:
+
+- Launch the command prompt on Windows or a terminal on Linux.
+- Use the command cd path_to_directory to go to the directory holding the C++ source file.
+For example: C:\Users\tonyk\Desktop\New folder\C++\CS540\HW4>
+- Compile the source code using the following command: g++ *.cpp -o NguyenTon-HW4
+
+(4) Run the Program:
+
+- After successful compilation, run the program by entering the
+following command in the terminal or command prompt: NguyenTon-HW4.exe
+- To launch the application on Windows using Visual Studio,
+open the executable file within the Visual Studio environment.
+
+(5) View the Results:
+
+- Based on the supplied input settings found in the source code,
+the program will calculate and show the total number of page faults
+for each page replacement method (LRU, Optimal, FIFO) once it has been run.
+*** Because I use the sample input that the question required so it
+still prints the output only. 
+*** If you would like to change another input and see what the faults are,
+you could change this "1, 2, 3, 4, 1, 2, 5, 1, 2, 3, 4, 5" in the line 140.
+
+***
+Thanks for reading the instruction.
