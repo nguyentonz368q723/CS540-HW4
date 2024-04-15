@@ -1,0 +1,17 @@
+**(1) Objective:**
+- This programming assignment focuses on implementing and comparing three page replacement algorithms (LRU, Optimal, FIFO) in a demand-paging scenario. The goal is to simulate
+these algorithms using a given page reference string and analyze their performance based on the number of page faults incurred.
+
+**(2) Key Requirements:**
+**- Implement Algorithms:** Develop LRU, Optimal, and FIFO page replacement algorithms. 
+- Input Handling: Create a mechanism to input a page reference string and specify the number of memory frames.
+
+**- Simulation:** Simulate each algorithm's behavior on the provided page reference string and calculate page faults incurred during simulation.
+
+**- Output Format:** Display clear, structured output for each algorithm, showing page faults at each step and the total number of page faults.
+
+**(3) Instruction:**
+- I add the file Instruction.txt, please read the file before doing this.
+
+***
+Thanks for reading carefully and for the details, please look carefully at file Description.txt and Instruction.txt
